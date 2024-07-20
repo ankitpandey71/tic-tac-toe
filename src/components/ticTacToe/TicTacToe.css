@@ -24,3 +24,10 @@
     margin-top: 25px;
     margin-bottom: 50px;
 }
+
+.board{
+    height: 600px;
+    width: 564px;
+    display: flex;
+    margin: auto;
+}
